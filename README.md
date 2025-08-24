@@ -57,8 +57,3 @@ Feel free to fork this repository, open issues, or submit pull requests if youâ€
 ## ðŸ“œ License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
-
-
-The trained Support Vector Machine (SVM) model using the **RBF kernel** effectively separates the two classes in the feature space. The decision boundary clearly adapts to the non-linear distribution of the data, highlighting the regions corresponding to each class. Support vectors, which are critical in defining this boundary, are visibly positioned along the edges of the class clusters. This visualization confirms the model's capability to handle complex patterns and provides an intuitive understanding of how SVM leverages support vectors to maximize the margin between classes.
-
-![SVM with RBF Kernel Result](images/svm_rbf_result.png)
