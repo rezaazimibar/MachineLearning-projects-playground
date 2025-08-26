@@ -57,6 +57,16 @@ The **Decision Tree Classifier** implementation demonstrates how decision trees 
 
 ---
 
+### 🔹 Random Forest Classifier  
+
+The **Random Forest Classifier** is an ensemble learning method that builds multiple decision trees and combines their predictions to improve accuracy and reduce overfitting. This implementation includes preprocessing, training, evaluation, and visualization of results, highlighting the robustness and reliability of random forests for classification tasks.
+
+<p align="center">
+  <img src="./tool_box_projects/02.Classification/07.%20Random_forest_classification/figure.png" width="50%">
+</p>
+
+---
+
 ## 🚀 Features
 
 - Step-by-step implementations of popular ML algorithms.
