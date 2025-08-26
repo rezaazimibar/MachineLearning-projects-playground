@@ -29,7 +29,7 @@ The **SVM with RBF kernel** is capable of handling non-linear decision boundarie
 The visualization below shows how the RBF kernel separates two classes and adapts to complex data distributions.
 
 <p align="center">
-<img src="./tool_box_projects/02.Classification/04.%20RFB_SVM/figure.png" width="50%">
+  <img src="./tool_box_projects/02.Classification/04.%20RFB_SVM/figure.png" width="50%">
 </p>
 
 ---
@@ -42,8 +42,19 @@ It is widely used in text classification, spam filtering, and sentiment analysis
 Below is an example output visualization from the notebook:
 
 <p align="center">
-<img src="./tool_box_projects/02.Classification/05.%20Naive_bayes/figure.png" width="50%">
+  <img src="./tool_box_projects/02.Classification/05.%20Naive_bayes/figure.png" width="50%">
 </p>
+
+---
+
+### 🔹 Decision Tree Classifier  
+
+The **Decision Tree Classifier** implementation demonstrates how decision trees can be applied for supervised learning tasks. It covers dataset preprocessing, model training, and visualization of the decision boundaries, making it easier to interpret how the algorithm splits the feature space for classification.
+
+<p align="center">
+  <img src="./tool_box_projects/02.Classification/06.%20Decision_tree_classification/figure.png" width="50%">
+</p>
+
 ---
 
 ## 🚀 Features
