@@ -23,6 +23,36 @@ Each folder has its own README (if needed) and code/scripts for better organizat
 This repository contains implementations of several ML algorithms.  
 Below you can find a short description and visualization for each one.
 
+### 🔹 Logistic Regression Classifier
+
+The **Logistic Regression Classifier** is a linear model for binary classification that uses the logistic (sigmoid) function to model the probability of a data point belonging to a particular class. It is widely used for tasks like predicting user purchases, with built-in support for regularization to prevent overfitting. This implementation includes data preprocessing, model fitting, evaluation metrics, and visualization of the classification results on a dataset of social network ads.
+
+<p align="center">
+  <img src="./tool_box_projects/02.Classification/01. logistic_regression/figure.png" width="50%">
+</p>
+
+---
+
+### 🔹 K-Nearest Neighbors (KNN) Classifier
+
+The **K-Nearest Neighbors (KNN) Classifier** is a non-parametric, instance-based learning algorithm that classifies new data points based on the majority vote of their k closest neighbors in the feature space, using distance metrics like Euclidean. It is simple yet effective for classification tasks, especially with small datasets, and includes preprocessing, training, evaluation, and visualization of decision boundaries.
+
+<p align="center">
+  <img src="./tool_box_projects/02.Classification/02. K_nearest_neighbors/figure.png" width="50%">
+</p>
+
+---
+
+### 🔹 Support Vector Machine (SVM) Classifier
+
+The **Support Vector Machine (SVM) Classifier** is a powerful supervised learning model that finds the optimal hyperplane to separate classes in the feature space, maximizing the margin between support vectors. It is effective for both linear and non-linear classification tasks through kernel tricks like RBF. This implementation covers data preprocessing, model training, evaluation, and visualization of the decision boundaries on a social network ads dataset.
+
+<p align="center">
+  <img src="./tool_box_projects/02.Classification/03. Support_vector_machine/figure.png" width="50%">
+</p>
+
+---
+
 ### 🔹 Support Vector Machine (SVM) with RBF Kernel
 
 The **SVM with RBF kernel** is capable of handling non-linear decision boundaries by mapping the input space into a higher-dimensional feature space.  
@@ -47,7 +77,7 @@ Below is an example output visualization from the notebook:
 
 ---
 
-### 🔹 Decision Tree Classifier  
+### 🔹 Decision Tree Classifier
 
 The **Decision Tree Classifier** implementation demonstrates how decision trees can be applied for supervised learning tasks. It covers dataset preprocessing, model training, and visualization of the decision boundaries, making it easier to interpret how the algorithm splits the feature space for classification.
 
@@ -57,7 +87,7 @@ The **Decision Tree Classifier** implementation demonstrates how decision trees 
 
 ---
 
-### 🔹 Random Forest Classifier  
+### 🔹 Random Forest Classifier
 
 The **Random Forest Classifier** is an ensemble learning method that builds multiple decision trees and combines their predictions to improve accuracy and reduce overfitting. This implementation includes preprocessing, training, evaluation, and visualization of results, highlighting the robustness and reliability of random forests for classification tasks.
 
