@@ -101,17 +101,28 @@ The **Random Forest Classifier** is an ensemble learning method that builds mult
 
 ---
 
-### 🔠 Classification models
+### 🔠 Cluster models
 
 ---
 
-🔹 K-Means Clustering
+#### 🔹 K-Means Clustering
 
 The K-Means Clustering notebook applies unsupervised learning to segment customers from the Mall Customers dataset based on their annual income and spending score. The project begins with data preprocessing and exploratory visualizations to understand feature distributions. The Elbow Method is then used to identify the optimal number of clusters, followed by training a K-Means model. Finally, the resulting customer segments are visualized with clear separation of clusters and their centroids, providing insights into consumer behavior and spending patterns.
 
 <p align="center">
-  <img src="./tool_box_projects/03.Clustering/01.%20K_mean_cluster/figure.png" width="50%">
+  <img src="./tool_box_projects/03.Clustering/01.%20K_mean_cluster/figure.png" width="80%">
 </p>
+
+---
+
+#### 🔹 Hierarchical Clustering  
+
+The **Hierarchical Clustering** implementation showcases how data points can be grouped into clusters based on their similarity using agglomerative (bottom-up) techniques. This notebook covers dataset preprocessing, building dendrograms, applying clustering, and visualizing the hierarchical structure to better understand relationships between clusters.
+
+<p align="center">
+  <img src="./tool_box_projects/03.Clustering/02.%20Hierarchical_clustering/figure.png" width="80%">
+</p>
+
 
 ---
 
@@ -143,4 +154,4 @@ Feel free to fork this repository, open issues, or submit pull requests if you�
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-<!-- ![Cluster Result]() -->
+<!-- ![Cluster Result](./tool_box_projects/03.Clustering/02.%20Hierarchical_clustering/figure.png) -->
