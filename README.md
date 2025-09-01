@@ -123,6 +123,14 @@ The **Hierarchical Clustering** implementation showcases how data points can be 
   <img src="./tool_box_projects/03.Clustering/02.%20Hierarchical_clustering/figure.png" width="80%">
 </p>
 
+---
+
+### 🔠 Cluster models
+
+
+#### 🔹 Apriori Algorithm  
+
+The **Apriori Algorithm** is implemented to identify frequent itemsets and generate association rules from transactional datasets. This notebook demonstrates how to apply Apriori for market basket analysis, covering data preprocessing, rule generation, and visualization of item associations to uncover hidden patterns in data.
 
 ---
 
