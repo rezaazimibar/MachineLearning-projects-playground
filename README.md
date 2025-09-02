@@ -134,6 +134,12 @@ The **Apriori Algorithm** is implemented to identify frequent itemsets and gener
 
 ---
 
+### 🔹 Eclat Algorithm  
+
+The **Eclat Algorithm** is implemented for frequent itemset mining using a depth-first search approach based on set intersections. This notebook demonstrates how to apply Eclat for market basket analysis, focusing on discovering frequent item combinations efficiently and generating insights into hidden associations within the dataset.
+
+---
+
 ## 🚀 Features
 
 - Step-by-step implementations of popular ML algorithms.
