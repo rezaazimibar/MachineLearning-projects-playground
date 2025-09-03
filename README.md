@@ -140,6 +140,19 @@ The **Eclat Algorithm** is implemented for frequent itemset mining using a depth
 
 ---
 
+### 🔠 Reinforcement Learning
+
+
+### 🔹 Upper Confidence Bound (UCB)  
+
+The **Upper Confidence Bound (UCB)** algorithm is implemented to solve the multi-armed bandit problem by balancing exploration and exploitation. This notebook demonstrates how UCB selects optimal actions over time, evaluates performance, and visualizes reward maximization strategies in reinforcement learning scenarios.
+
+<p align="center">
+  <img src="./tool_box_projects/05.ReinforcementLearning/01.UpperConfidenceBound/figure.png" width="80%">
+</p>
+
+---
+
 ## 🚀 Features
 
 - Step-by-step implementations of popular ML algorithms.
@@ -168,4 +181,4 @@ Feel free to fork this repository, open issues, or submit pull requests if you�
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-<!-- ![Cluster Result](./tool_box_projects/03.Clustering/02.%20Hierarchical_clustering/figure.png) -->
+<!-- ![Cluster Result](./tool_box_projects/05.ReinforcementLearning/01.UpperConfidenceBound/figure.png) -->
