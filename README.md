@@ -115,7 +115,7 @@ The K-Means Clustering notebook applies unsupervised learning to segment custome
 
 ---
 
-#### 🔹 Hierarchical Clustering  
+#### 🔹 Hierarchical Clustering
 
 The **Hierarchical Clustering** implementation showcases how data points can be grouped into clusters based on their similarity using agglomerative (bottom-up) techniques. This notebook covers dataset preprocessing, building dendrograms, applying clustering, and visualizing the hierarchical structure to better understand relationships between clusters.
 
@@ -127,14 +127,13 @@ The **Hierarchical Clustering** implementation showcases how data points can be 
 
 ### 🔠 Cluster models
 
-
-#### 🔹 Apriori Algorithm  
+#### 🔹 Apriori Algorithm
 
 The **Apriori Algorithm** is implemented to identify frequent itemsets and generate association rules from transactional datasets. This notebook demonstrates how to apply Apriori for market basket analysis, covering data preprocessing, rule generation, and visualization of item associations to uncover hidden patterns in data.
 
 ---
 
-### 🔹 Eclat Algorithm  
+### 🔹 Eclat Algorithm
 
 The **Eclat Algorithm** is implemented for frequent itemset mining using a depth-first search approach based on set intersections. This notebook demonstrates how to apply Eclat for market basket analysis, focusing on discovering frequent item combinations efficiently and generating insights into hidden associations within the dataset.
 
@@ -142,13 +141,22 @@ The **Eclat Algorithm** is implemented for frequent itemset mining using a depth
 
 ### 🔠 Reinforcement Learning
 
-
-### 🔹 Upper Confidence Bound (UCB)  
+### 🔹 Upper Confidence Bound (UCB)
 
 The **Upper Confidence Bound (UCB)** algorithm is implemented to solve the multi-armed bandit problem by balancing exploration and exploitation. This notebook demonstrates how UCB selects optimal actions over time, evaluates performance, and visualizes reward maximization strategies in reinforcement learning scenarios.
 
 <p align="center">
   <img src="./tool_box_projects/05.ReinforcementLearning/01.UpperConfidenceBound/figure.png" width="80%">
+</p>
+
+---
+
+#### 🔹 Thompson Sampling
+
+The **Thompson Sampling** algorithm is implemented as a Bayesian approach to solving the multi-armed bandit problem. This notebook illustrates how the method balances exploration and exploitation by sampling from probability distributions, optimizing decision-making over time, and visualizing the performance compared to other strategies.
+
+<p align="center">
+  <img src="./tool_box_projects/05.ReinforcementLearning/02.ThompsonSampling/figure.png" width="80%">
 </p>
 
 ---
@@ -181,4 +189,4 @@ Feel free to fork this repository, open issues, or submit pull requests if you�
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-<!-- ![Cluster Result](./tool_box_projects/05.ReinforcementLearning/01.UpperConfidenceBound/figure.png) -->
+<!-- ![Cluster Result](./tool_box_projects/05.ReinforcementLearning/02.ThompsonSampling/figure.png) -->
