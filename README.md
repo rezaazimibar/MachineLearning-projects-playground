@@ -161,6 +161,15 @@ The **Thompson Sampling** algorithm is implemented as a Bayesian approach to sol
 
 ---
 
+### 🔠 Natural Language Processing
+
+
+#### 🔹 Bag of Words Model  
+
+The **Bag of Words (BoW) model** is implemented for natural language processing tasks. This notebook demonstrates how to convert textual data into numerical feature vectors by counting word occurrences, enabling machine learning algorithms to process text. It also covers preprocessing steps and visualization of the resulting feature space.
+
+---
+
 ## 🚀 Features
 
 - Step-by-step implementations of popular ML algorithms.
