@@ -170,6 +170,14 @@ The **Bag of Words (BoW) model** is implemented for natural language processing 
 
 ---
 
+### 🔠 Neural Network
+
+
+#### 🔹 Artificial Neural Network (ANN)  
+
+The **Artificial Neural Network (ANN)** implementation demonstrates how a neural network can be applied to solve supervised learning problems. This notebook covers data preprocessing, model architecture design, training, evaluation, and visualization of results, providing insights into how ANNs learn complex patterns in data.
+
+---
 ## 🚀 Features
 
 - Step-by-step implementations of popular ML algorithms.
