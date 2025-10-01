@@ -178,6 +178,13 @@ The **Bag of Words (BoW) model** is implemented for natural language processing 
 The **Artificial Neural Network (ANN)** implementation demonstrates how a neural network can be applied to solve supervised learning problems. This notebook covers data preprocessing, model architecture design, training, evaluation, and visualization of results, providing insights into how ANNs learn complex patterns in data.
 
 ---
+
+#### 🔹 Convolutional Neural Network (CNN)  
+
+The **Convolutional Neural Network (CNN)** implementation focuses on image classification tasks by leveraging convolutional layers, pooling layers, and fully connected layers. This notebook demonstrates data preprocessing, model construction, training, and evaluation, along with visualizations that highlight how CNNs learn spatial hierarchies of features from images.
+
+---
+
 ## 🚀 Features
 
 - Step-by-step implementations of popular ML algorithms.
