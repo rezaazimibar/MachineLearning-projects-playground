@@ -198,6 +198,16 @@ The **Principal Component Analysis (PCA)** notebook demonstrates how to apply di
 
 ---
 
+#### 🔹 Linear Discriminant Analysis (LDA)  
+
+The **Linear Discriminant Analysis (LDA)** notebook demonstrates a supervised dimensionality reduction technique that projects data into a lower-dimensional space while maximizing class separability. It covers preprocessing, computation of linear discriminants, and visualization of transformed features. LDA is widely used in classification tasks to both reduce dimensionality and improve model performance by enhancing class distinction in the feature space.  
+
+<p align="center">
+  <img src="./tool_box_projects/08.DimensionalityReduction/02.%20LDA/figure.png" width="80%">
+</p>
+
+---
+
 ## 🚀 Features
 
 - Step-by-step implementations of popular ML algorithms.
@@ -226,4 +236,4 @@ Feel free to fork this repository, open issues, or submit pull requests if you�
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-<!-- ![Cluster Result](./tool_box_projects/08.DimensionalityReduction/01.%20PCA/figur.png) -->
+<!-- ![Cluster Result](./tool_box_projects/08.DimensionalityReduction/02.%20LDA/figure.png) -->
