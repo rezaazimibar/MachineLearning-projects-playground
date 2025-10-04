@@ -185,6 +185,19 @@ The **Convolutional Neural Network (CNN)** implementation focuses on image class
 
 ---
 
+### 🔠 DimensionalityReduction
+
+
+#### 🔹 Principal Component Analysis (PCA)  
+
+The **Principal Component Analysis (PCA)** notebook demonstrates how to apply dimensionality reduction techniques to simplify datasets while preserving as much variance as possible. It covers data preprocessing, computation of principal components, and visualization of transformed feature spaces. PCA is especially useful for high-dimensional datasets, enabling improved model performance and clearer insights by projecting data into lower dimensions.  
+
+<p align="center">
+  <img src="./tool_box_projects/08.DimensionalityReduction/01.%20PCA/figur.png" width="80%">
+</p>
+
+---
+
 ## 🚀 Features
 
 - Step-by-step implementations of popular ML algorithms.
@@ -213,4 +226,4 @@ Feel free to fork this repository, open issues, or submit pull requests if you�
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-<!-- ![Cluster Result](./tool_box_projects/05.ReinforcementLearning/02.ThompsonSampling/figure.png) -->
+<!-- ![Cluster Result](./tool_box_projects/08.DimensionalityReduction/01.%20PCA/figur.png) -->
