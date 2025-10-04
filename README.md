@@ -208,6 +208,17 @@ The **Linear Discriminant Analysis (LDA)** notebook demonstrates a supervised di
 
 ---
 
+#### 🔹 Kernel PCA  
+
+The **Kernel Principal Component Analysis (Kernel PCA)** implementation demonstrates how non-linear dimensionality reduction can be achieved using kernel functions. This notebook covers data preprocessing, applying Kernel PCA to transform complex datasets into lower dimensions, and visualizing the resulting feature space to reveal underlying structures not captured by standard PCA.
+
+
+<p align="center">
+  <img src="./tool_box_projects/08.DimensionalityReduction/03.%20KernelPCA/figure.png" width="80%">
+</p>
+
+---
+
 ## 🚀 Features
 
 - Step-by-step implementations of popular ML algorithms.
@@ -236,4 +247,4 @@ Feel free to fork this repository, open issues, or submit pull requests if you�
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-<!-- ![Cluster Result](./tool_box_projects/08.DimensionalityReduction/02.%20LDA/figure.png) -->
+<!-- ![Cluster Result](./tool_box_projects/08.DimensionalityReduction/03.%20KernelPCA/) -->
