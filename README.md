@@ -185,6 +185,21 @@ The **Convolutional Neural Network (CNN)** implementation focuses on image class
 
 ---
 
+### 🔠 Gradient Boosting
+
+
+#### 🔹 XGBoost Classifier  
+
+The **XGBoost Classifier** implementation demonstrates how gradient boosting can be used to build high-performance models for classification tasks. This notebook covers data preprocessing, model training, hyperparameter tuning, and performance evaluation, showcasing XGBoost’s efficiency and scalability for complex datasets.
+
+---
+
+#### 🔹 CatBoost Classifier  
+
+The **CatBoost Classifier** implementation applies gradient boosting on decision trees with efficient handling of categorical features. This notebook includes dataset preprocessing, model training, parameter tuning, and performance evaluation, demonstrating CatBoost’s ability to deliver high accuracy with minimal preprocessing.
+
+---
+
 ### 🔠 DimensionalityReduction
 
 
@@ -193,7 +208,7 @@ The **Convolutional Neural Network (CNN)** implementation focuses on image class
 The **Principal Component Analysis (PCA)** notebook demonstrates how to apply dimensionality reduction techniques to simplify datasets while preserving as much variance as possible. It covers data preprocessing, computation of principal components, and visualization of transformed feature spaces. PCA is especially useful for high-dimensional datasets, enabling improved model performance and clearer insights by projecting data into lower dimensions.  
 
 <p align="center">
-  <img src="./tool_box_projects/08.DimensionalityReduction/01.%20PCA/figur.png" width="80%">
+  <img src="./tool_box_projects/09.DimensionalityReduction/01.%20PCA/figur.png" width="80%">
 </p>
 
 ---
@@ -203,7 +218,7 @@ The **Principal Component Analysis (PCA)** notebook demonstrates how to apply di
 The **Linear Discriminant Analysis (LDA)** notebook demonstrates a supervised dimensionality reduction technique that projects data into a lower-dimensional space while maximizing class separability. It covers preprocessing, computation of linear discriminants, and visualization of transformed features. LDA is widely used in classification tasks to both reduce dimensionality and improve model performance by enhancing class distinction in the feature space.  
 
 <p align="center">
-  <img src="./tool_box_projects/08.DimensionalityReduction/02.%20LDA/figure.png" width="80%">
+  <img src="./tool_box_projects/09.DimensionalityReduction/02.%20LDA/figure.png" width="80%">
 </p>
 
 ---
@@ -214,7 +229,7 @@ The **Kernel Principal Component Analysis (Kernel PCA)** implementation demonstr
 
 
 <p align="center">
-  <img src="./tool_box_projects/08.DimensionalityReduction/03.%20KernelPCA/figure.png" width="80%">
+  <img src="./tool_box_projects/09.DimensionalityReduction/03.%20KernelPCA/figure.png" width="80%">
 </p>
 
 ---
