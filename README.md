@@ -262,4 +262,68 @@ Feel free to fork this repository, open issues, or submit pull requests if you�
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
+---
+
+├───end_to_end_projects
+│   ├───bulldozer_price_prediction
+│   │   ├───.ipynb_checkpoints
+│   │   └───data
+│   ├───dog_breed-classification
+│   ├───dog_or_cat_recognition
+│   └───heart_disease_prediction
+│       └───data
+└───tool_box_projects
+    ├───00.DataPreprocessing
+    │   ├───machinlearning_preporcessing
+    │   └───Pytorch_custom_datasets
+    │       └───data
+    │           └───pizza_steak_sushi
+    │               ├───test
+    │               │   ├───pizza
+    │               │   ├───steak
+    │               │   └───sushi
+    │               └───train
+    │                   ├───pizza
+    │                   ├───steak
+    │                   └───sushi
+    ├───01.Regression
+    │   ├───01.simple_linear_regression
+    │   ├───02.multiple_linear_regression
+    │   │   └───analyze_startup_companies_data
+    │   ├───03.polynomial_regression
+    │   ├───04.support_vector_regression
+    │   ├───05.decision_tree_regression
+    │   ├───06.random_forest_regression
+    │   └───regression_model_selection
+    ├───02.Classification
+    │   ├───01. logistic_regression
+    │   ├───02. K_nearest_neighbors
+    │   ├───03. Support_vector_machine
+    │   ├───04. RFB_SVM
+    │   ├───05. Naive_bayes
+    │   ├───06. Decision_tree_classification
+    │   ├───07. Random_forest_classification
+    │   └───classification_model_selection
+    ├───03.Clustering
+    │   ├───01. K_mean_cluster
+    │   └───02. Hierarchical_clustering
+    ├───04.AssociationRuleLearning
+    │   ├───01. Apriori
+    │   └───02. Eclat
+    ├───05.ReinforcementLearning
+    │   ├───01.UpperConfidenceBound
+    │   └───02.ThompsonSampling
+    ├───06.NaturalLanguageProcessing
+    │   └───01.BagOfWords
+    ├───07.NeuralNetwork
+    │   ├───01.ArtificialNeuralNetwork
+    │   ├───02.NeuralNetworkClassification_PyTorch
+    │   └───03.PyTorchComputerVision
+    ├───08.GradientBoost
+    ├───09.DimensionalityReduction
+    │   ├───01. PCA
+    │   ├───02. LDA
+    │   └───03. KernelPCA
+    └───10.ModelSelection
+
 <!-- ![Cluster Result](./tool_box_projects/08.DimensionalityReduction/03.%20KernelPCA/) -->
