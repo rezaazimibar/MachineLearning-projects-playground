@@ -264,6 +264,7 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 
 ---
 
+```text
 ├───end_to_end_projects
 │   ├───bulldozer_price_prediction
 │   │   ├───.ipynb_checkpoints
@@ -325,5 +326,6 @@ This repository is licensed under the MIT License. See the LICENSE file for more
     │   ├───02. LDA
     │   └───03. KernelPCA
     └───10.ModelSelection
+```
 
 <!-- ![Cluster Result](./tool_box_projects/08.DimensionalityReduction/03.%20KernelPCA/) -->
